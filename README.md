@@ -219,6 +219,8 @@ receive and track email effortlessly.
 
 [Big ML](https://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
+[CiteMe](https://citeme.app) - AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, MLA, Chicago, Harvard, IEEE). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+
 
 ## Customer Data Management
 
